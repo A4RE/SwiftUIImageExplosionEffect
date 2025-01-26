@@ -3,7 +3,7 @@
 **SwiftUIImageExplosion** is a custom SwiftUI effect that creates a playful “explosion” of particles from any tapped image. Each explosion shatters the tapped image into randomly sized and rotated fragments, adding a fun visual flourish to your app.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e3de837-f0b0-4305-89c7-f1032af1271c" alt="Explosion Effect Demo">
+  <img src="https://github.com/user-attachments/assets/7e3de837-f0b0-4305-89c7-f1032af1271c" alt="Explosion Effect Demo" width="400">
 </p>
 
 
