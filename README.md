@@ -16,7 +16,7 @@
 ## Setup
 1. **Download** or **clone** this repository.
 2. **Drag and drop** the relevant `.swift` files (e.g., `ExplosionWithImageView.swift`) into your Xcode project.
-3. **Start using the `ExplosionWithImageView` or adapt the core logic in your own SwiftUI views.
+4. **Start using** the `ExplosionWithImageView` or adapt the core logic in your own SwiftUI views.
 
 ## Quick Start
 
